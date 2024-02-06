@@ -1,0 +1,35 @@
+.head
+{
+    background-color: black;
+    color: white;
+
+}
+.content
+{
+    min-height: 200px;
+}
+.main_content
+{
+    border:2px solid black;
+    padding: 10px;
+}
+.side-bar
+{
+    min-height: 200px;
+    /* margin-left: 10px; */
+}
+
+.box{
+    min-height: 120px;
+    min-width: 90px;
+    border: 2px solid black;
+    margin-left: 15px;
+    text-align: center;
+    line-height: 120px;
+    background-color: lightslategrey;
+}
+.footer
+{
+    min-height: 7vh;
+    margin-bottom: 3vh;
+}
