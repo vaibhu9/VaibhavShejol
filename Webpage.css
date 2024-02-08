@@ -1,0 +1,48 @@
+.nav{
+    background-color: black;
+    color: white;
+    line-height: auto;
+}
+.nav_bar a{
+    text-align: justify;
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
+.nav_bar a:hover{
+    background-color: lightgreen;
+    padding: 5px;
+}
+.header{
+    background-color: black;
+    color: white;
+}
+.img{
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+}
+.mr-3{
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+}
+.midcont{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+}
+.blog{
+    text-align: center;
+}
+.deliver{
+    color: white;
+    text-align: center;
+}
+.email{
+    text-align: center;
+    color: white;
+}
+.footer{
+    color: white;
+}
